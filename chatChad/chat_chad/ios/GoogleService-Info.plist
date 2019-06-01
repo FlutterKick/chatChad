@@ -35,6 +35,6 @@
 	<key>GOOGLE_APP_ID</key>
 	<string>1:347976604232:ios:f43eb2afc88737b9</string>
 	<key>DATABASE_URL</key>
-	<string>https://flutterchatdemo.firebaseio.com</string>
+	<string>https://chatchad-4b512.firebaseio.com</string>
 </dict>
 </plist>

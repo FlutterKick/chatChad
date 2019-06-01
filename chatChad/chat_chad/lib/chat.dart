@@ -10,7 +10,10 @@ import 'package:fluttertoast/fluttertoast.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:translator/translator.dart';
 
+
+final translator = new GoogleTranslator();
 class Chat extends StatelessWidget {
   final String peerId;
   final String peerAvatar;
@@ -156,7 +159,7 @@ class ChatScreenState extends State<ChatScreen> {
             'idFrom': id,
             'idTo': peerId,
             'timestamp': DateTime.now().millisecondsSinceEpoch.toString(),
-            'content': content,
+            'content': translator.translate(content, to: 'es'),
             'type': type
           },
         );

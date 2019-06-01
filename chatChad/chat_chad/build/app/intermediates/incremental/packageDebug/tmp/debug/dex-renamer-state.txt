@@ -1,0 +1,4 @@
+#Sat Jun 01 14:14:13 SGT 2019
+base.0=C\:\\Users\\Khairul\\Desktop\\chatChad\\chatChad\\chat_chad\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

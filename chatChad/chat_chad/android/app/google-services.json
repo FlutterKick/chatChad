@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686479192480",
+    "firebase_url": "https://chatchad-5afba.firebaseio.com",
+    "project_id": "chatchad-5afba",
+    "storage_bucket": "chatchad-5afba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686479192480:android:479017eae4ae3f4b",
+        "android_client_info": {
+          "package_name": "com.example.chat_chad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686479192480-ist695s2005122edmodoq8jle1brmm1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBk1DLtub2WGFZS3QmcOKFNzsTmdhzaQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686479192480-ist695s2005122edmodoq8jle1brmm1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
